@@ -7,7 +7,7 @@
 
 LIKELION AIS7
 
-## 👩‍👩‍👧‍👦 Team Info.            
+## Team Info.            
 |이름|역할|             
 |:------:|:---:|                    
 |<span style="color:blue">[이승후](https://github.com/slee-02)</span>|EDA, 모델링, PPT 제작|
