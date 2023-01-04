@@ -3,11 +3,7 @@
 
 ## 6조 지켜줄게.. 너의안전❤️
 ![Untitled (1)](data/image.png)
-## Contributor
-
-LIKELION AIS7
-
-## Team Info.            
+## Contributor            
 |이름|역할|             
 |:------:|:---:|                    
 |<span style="color:blue">[이승후](https://github.com/slee-02)</span>|EDA, 모델링, PPT 제작|
