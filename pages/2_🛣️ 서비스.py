@@ -243,7 +243,7 @@ map = folium.Map(location=[center[0], center[1]], zoom_start=13)
 
 # 경로 마커 추가
 for i in range(1, len(df_좌표_2)-1):
-    if df_좌표_2['위험도'][i] <= 0.3:
+    if df_좌표_2['위험도'][i] <= 0.4:
         color = 'blue'
         tooltip = '안전'
         icon='ok-sign'
