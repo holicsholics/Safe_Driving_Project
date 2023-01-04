@@ -153,7 +153,7 @@ for i in range(len(경도d)):
 
 경도 = []
 위도 = []
-for i in range(0, len(경도d), round(len(경도d)/10)):
+for i in range(0, len(경도d), round(len(경도d)/20)):
     경도.append(경도d[i])
     위도.append(위도d[i])
 
@@ -247,7 +247,7 @@ for i in range(1, len(df_좌표_2)-1):
         color = 'blue'
         tooltip = '안전'
         icon='ok-sign'
-    elif (df_좌표_2['위험도'][i] >= 0.80):
+    elif (df_좌표_2['위험도'][i] >= 0.85):
         color = 'red'
         tooltip = '위험'
         icon='exclamation-sign'
