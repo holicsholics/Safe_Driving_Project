@@ -273,9 +273,9 @@ folium.Marker([위도d[len(경도d)-1], 경도d[len(경도d)-1]],
 
 # 선 그리기
 for i in range(len(df_좌표_2)-1):
-    if (df_좌표_2['위험도'][i] + df_좌표_2['위험도'][i+1])/2 < 0.5:
+    if (df_좌표_2['위험도'][i] + df_좌표_2['위험도'][i+1])/2 <= 0.4:
         color='blue'
-    elif (df_좌표_2['위험도'][i] + df_좌표_2['위험도'][i+1])/2 > 0.85:
+    elif (df_좌표_2['위험도'][i] + df_좌표_2['위험도'][i+1])/2 >= 0.9:
         color='red'
     else:
         color='orange'
