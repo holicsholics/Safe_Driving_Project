@@ -3,7 +3,6 @@ geojson
 koreanize_matplotlib
 matplotlib
 numpy
-opencv_python
 pandas
 Pillow
 plotly
@@ -12,3 +11,4 @@ seaborn
 streamlit
 streamlit_folium
 tensorflow
+opencv-python-headless
