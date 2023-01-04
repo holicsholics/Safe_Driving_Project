@@ -260,10 +260,10 @@ for i in range(1, len(df_좌표_2)-1):
                   ).add_to(map)
 
 # 시작지/도착지 마커 추가
-folium.Marker([df_좌표_2['위도'][0], df_좌표_2['경도'][0]], 
+folium.Marker([위도d[0], 경도d[0]],
               icon = folium.Icon(color='black', icon='play'),
               tooltip = '출발!').add_to(map)
-folium.Marker([df_좌표_2['위도'][len(df_좌표_2)-1], df_좌표_2['경도'][len(df_좌표_2)-1]], 
+folium.Marker([위도d[len(경도d)-1], 경도d[len(경도d)-1]], 
               icon = folium.Icon(color='black', icon='flag'), 
               tooltip = '도착!').add_to(map)
 
