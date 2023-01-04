@@ -23,5 +23,5 @@
 |<span style="color:blue">[전재원](https://github.com/jaewonjeon8)</span>|EDA, 모델링, T-Map APi 구현|             
 |<span style="color:blue">[김영민](https://github.com/ZeroMin)</span>|EDA, 모델링, T-Map APi 구현|           
    
-#### ableau
+#### Tableau
 [https://public.tableau.com/app/profile/kunyoung.park/viz/Final_PPT/1?publish=yes](https://public.tableau.com/app/profile/kunyoung.park/viz/Final_PPT/1?publish=yes)
