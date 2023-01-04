@@ -2,7 +2,7 @@
 멋쟁이사자처럼 AI School 7기 final project
 
 ## 6조 지켜줄게.. 너의안전❤️
-![Untitled (1)](https://user-images.githubusercontent.com/72390138/196888620-5ae69373-2747-4cb8-a8d7-8bd400c8f138.png)
+![Untitled (1)](data/image.png)
 ## Contributor
 
 LIKELION AIS7
