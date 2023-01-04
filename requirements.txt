@@ -12,5 +12,3 @@ seaborn
 streamlit
 streamlit_folium
 tensorflow
-opencv
-cv2
