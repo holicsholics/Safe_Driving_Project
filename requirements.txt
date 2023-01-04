@@ -13,5 +13,3 @@ streamlit
 streamlit_folium
 tensorflow
 tensorflow_intel
-opencv
-cv2
