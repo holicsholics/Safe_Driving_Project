@@ -1,8 +1,8 @@
 # 🚨교통사고다발지역 이미지 기반 위험도로 예측🚨
----
 
 - 데이터 수집: Google Map API, KaKao Map API
-- 서비스 구현: T-Map API 
+- 서비스 구현: T-Map API, Streamlit
+- EDA, 시각화: Tableau, Python
 
 ## 📜 Summary
 ![Untitled (1)](data/image.png)
