@@ -56,6 +56,7 @@ with st.sidebar:
     # 검색 요소 받기
     출발지 = st.text_input('출발지', '서울 종로구 세종대로 172')
     도착지 = st.text_input('도착지', '서울 마포구 마포대로 33')
+    number = st.number_input("사고지점 수", value = 20)
     경로선택 =  st.selectbox("경로선택",df_경로)
     st.markdown("**************")
 
@@ -156,7 +157,7 @@ for i in range(len(경도d)):
 
 경도 = []
 위도 = []
-for i in range(0, len(경도d), round(len(경도d)/20)):
+for i in range(0, len(경도d), round(len(경도d)/int(number))):
     경도.append(경도d[i])
     위도.append(위도d[i])
 
