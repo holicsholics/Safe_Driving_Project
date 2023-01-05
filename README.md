@@ -1,5 +1,5 @@
-# Safe_Driving_Project
-멋쟁이사자처럼 AI School 7기 final project
+# 🚨위험도로 예측 서비스🚨
+멋쟁이사자처럼 AI School 7기 Final project
 
 ## 📜 Summary
 ![Untitled (1)](data/image.png)
